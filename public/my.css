@@ -1,0 +1,12 @@
+.bg-gradient {
+    background: rgb(36, 0, 35) !important;
+    background: linear-gradient(90deg, rgba(36, 0, 35, 1) 0%, rgba(236, 17, 187, 1) 25%, rgba(9, 153, 183, 1) 100%) !important;
+}
+
+.btn-me {
+    background-color: rgb(49 130 206);
+}
+
+.btn-me:hover {
+    background-color: rgb(49 130 206);
+}
